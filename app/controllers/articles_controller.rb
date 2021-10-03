@@ -18,6 +18,7 @@ class ArticlesController < ApplicationController
         render :new
       end
     end
+  end
   
     private
    def article_params
